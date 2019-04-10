@@ -9,6 +9,5 @@
 ## cv_problem
 - Contains complete documented code for classification problem
 - Contains results csv file
-- Does not contain jupyter notebook checkpoints as the model was trained on cloud
 - Python version used - 3.6
 - Libraries used - fastai, numpy, pandas
