@@ -1,0 +1,41 @@
+,full_text,Date and Time,Number of Retweets,Number of Likes,Number of Images
+0,"We will close the submission portal for submitting your internship task mid-night. Kindly submit your solution in time. 
+
+#MIDAS #Summer #Internship",Wed Apr 10 16:47:25 +0000 2019,0,1,0
+1,Clarification: Our earlier post which indicates that the interview has been done is referring to the interviews of the candidates who have submitted applications and tasks in the first round (not through IIITD internship portal). The second round candidates yet to be interviewed.,Wed Apr 10 09:01:29 +0000 2019,0,0,0
+2,"Applications open for MTech (CB) through JNU CEEB Admission process. Candidates can check the JNU CEEB admission process in the following links : 
+JNU CEEB - https://t.co/ciq1scu9Pm  
+IIITD - https://t.co/orPaYEeKBL https://t.co/l816beuIXr",Wed Apr 10 04:28:24 +0000 2019,1,3,1
+3,"We are delighted to share that IIIT-Delhi is ranked 55 by NIRF this year. We have moved up by 11 positions compared to the previous ranking. 
+We take this opportunity to thank the faculty, officers, students, alumni, collaborators, and well-wishers for this achievement. https://t.co/FealgVAQO2",Tue Apr 09 09:03:12 +0000 2019,14,60,1
+4,"Professor Jelani Nelson founded AddisCoder, a program that teaches students in Ethiopia how to code https://t.co/0sM06p4qxw",Mon Apr 08 20:10:01 +0000 2019,36,99,0
+5,"For anyone interested in submitting to EMNLP 2019, the anonymity period begins in less two weeks, on April 21.
+https://t.co/dOfVWlL55u https://t.co/wwQiFZNuBa",Mon Apr 08 17:35:00 +0000 2019,17,38,1
+6,Announcing the 2019 MediaEval multimedia tasks: https://t.co/V6NMt1vaNV Participation is open for anyone who is interested. Registration starts soon. @sigmm @ACMMM19,Mon Mar 18 06:40:38 +0000 2019,15,20,0
+7,"Many Congratulations to @midasIIITD student, Shagun Uppal @shagunuppls, on getting selected for the summer internship in the BRAIN lab at Singapore University of Technology &amp; Design @sutdsg, Singapore.
+We wish her the best luck for the internship.
+
+#MIDAS #StudentAchievement https://t.co/snX2GkzvQg",Mon Apr 08 07:08:12 +0000 2019,2,18,1
+8,@midasIIITD thanks all students who have appeared for the interview yesterday. We will announce the interview results for MIDAS internship latest by 14th April 2019. Sorry for the delay since we are carefully evaluating all applications that we have received for the internship. https://t.co/FANz5vImwU,Mon Apr 08 03:27:42 +0000 2019,0,5,1
+9,"@himanchalchandr Meanwhile, complete CV/NLP task first.",Sun Apr 07 14:17:29 +0000 2019,0,0,0
+10,@sayangdipto123 Submit as per the guideline again.,Sun Apr 07 14:17:09 +0000 2019,0,0,0
+11,"We request all students whose interview are scheduled today to join at the time given to them and not before or after. We have other interviews scheduled which will be affected. 
+Thanks much.",Sun Apr 07 11:43:24 +0000 2019,1,1,0
+12,"Other queries: ""none of the Tweeter Apis give the correct count of favorites tested for most of them, all give the wrong count. same is true for retweet. this mostly happens if the no. of likes, retweet is very large. So, what shld be done?""
+Ans: Just use the count given by API.",Sun Apr 07 06:55:19 +0000 2019,2,5,0
+13,"Other queries: ""do we have to make two different repositories on Github as ""Python Problem"" and ""CV Problem"". Or we have to make a single repository named ""root"" and upload our code in that?""
+And: Have one repository of any name which has two folders. One python and other cv/nlp",Sun Apr 07 06:53:38 +0000 2019,1,5,0
+14,"Other queries: ""If using Twitter api, it does not include any information about images in the response objects sent, so how do we retrieve the image info as requested?""
+Ans: U have to use twitter api or wrappers based on it like tweepy.
+Twitter API does provide image information.",Sun Apr 07 05:32:27 +0000 2019,1,6,0
+15,"Response to some queries asked by students on @midasIIITD task.
+What does the line ""dump the responses into JSONlines file"" mean?
+It means you have to dump the response into a jsonlines file. jsonlines is a file extension more popularly know as .jsonl
+#MIDAS #Research #Internship",Sun Apr 07 05:29:40 +0000 2019,1,7,0
+16,Top 8 #Free Must-Read #Books on #DeepLearning #KDN https://t.co/1DtlN91Yjj,Sat Apr 06 17:01:00 +0000 2019,2,21,0
+17,"@nupur_baghel @PennDATS Congratulation @nupur_baghel on getting admit from @PennDATS. 
+She got 5/10 acceptance. She has worked at @midasIIITD on the #kikichallenge problem. We are glad to know that it inspired her to pursue further research. We wish her a great success ahead. 
+#MSc #DataScience #UPenn https://t.co/2daLOHGPBU",Sat Apr 06 16:43:27 +0000 2019,3,18,1
+18,We have emailed the task details to all candidates who have applied to @midasIIITD internship through IIITD portal. Kindly check your spam folder if you have not received the email. We will evaluate all solutions received until April 10 midnight and announce results by April 14.,Fri Apr 05 16:08:37 +0000 2019,1,11,0
+19,"Our NAACL paper on polarization in language on Twitter surrounding mass shootings is up on arXiv! https://t.co/g7wiegXxDg
+This is the first lead-author paper from Dora Demszky; she put a huge amount of work into it and I think it turned out extremely well.",Thu Apr 04 20:44:40 +0000 2019,16,49,0
